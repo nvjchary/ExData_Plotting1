@@ -1,3 +1,6 @@
+#The text file to be saved in the working directory
+
+
 #read data
 x<-read.table("household_power_consumption.txt",header=TRUE,sep=";",na.strings="?")
 
